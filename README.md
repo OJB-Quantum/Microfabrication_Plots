@@ -1,2 +1,2 @@
 # Microfabrication_NOTO
- Microfabrication notebooks for the course. 
+ Microfabrication notebooks in Python.
